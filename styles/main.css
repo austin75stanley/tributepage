@@ -1,0 +1,33 @@
+body{
+    margin:15px;
+    padding:15px;
+    
+}
+div{
+    border-radius: 5px;
+    background:lightgrey;
+}
+.header-text{
+   
+    text-align:center;
+   
+}
+.image-head{
+  background:white;
+  padding:20px;
+  text-align: center;
+
+
+}
+img{
+    display: block;
+    margin:0 auto;
+    width:150vh;
+    min-height:80vh;
+}
+.footer-title{
+    font-style: bold;
+    font-weight: 900;
+    text-align: center;
+    
+}
