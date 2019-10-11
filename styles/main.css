@@ -1,6 +1,6 @@
 body{
-    margin:15px;
-    padding:15px;
+    margin:25px 20px;
+    padding:25px;
     
 }
 div{
@@ -8,9 +8,10 @@ div{
     background:lightgrey;
 }
 .header-text{
-   
     text-align:center;
-   
+}
+h1{
+    font-weight: bolder;
 }
 .image-head{
   background:white;
@@ -25,9 +26,22 @@ img{
     width:150vh;
     min-height:80vh;
 }
+.footer-section{
+  padding: 30px 10px;
+  
+}
 .footer-title{
     font-style: bold;
     font-weight: 900;
     text-align: center;
     
+}
+ul{
+    padding:10px 0;
+    display: block;
+    width:550px;
+    margin:0 auto;
+}
+li{
+    padding:10px;
 }
