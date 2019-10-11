@@ -8,10 +8,16 @@ div{
     background:lightgrey;
 }
 .header-text{
+    padding-top:30px;
     text-align:center;
+    line-height: 50px;
+   
 }
-h1{
-    font-weight: bolder;
+#heading-1{
+font-size: 50px;
+font-weight: 900;
+  
+  
 }
 .image-head{
   background: #292626;
